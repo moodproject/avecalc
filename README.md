@@ -2,7 +2,7 @@
 _avecalc_ è un'applicazione desktop Java per aiutare studenti universitari a gestire la propria carriera universitaria.
 
 ## Descrizione
-In _avecalc_, uno studente può aggiungere un nuovo esame, modificare o rimuovere un esame precedentemente inserito, o rimuovere tutti gli esami precedentemente inseriti. _avecalc_ gestisce sia gli esami superati che quelli non superati. Inoltre, _avecalc_ calcola: il voto medio degli esami superati, il numero complessivo di CFU degli esami superati, il numero degli esami superati e il voto di laurea (ipotetico).
+In _avecalc_, uno studente può aggiungere un nuovo esame, modificare o rimuovere un esame precedentemente inserito, o rimuovere tutti gli esami precedentemente inseriti. _avecalc_ consente l'inserimento sia degli esami superati che quelli non superati. Inoltre, _avecalc_ calcola: il voto medio degli esami superati, il numero complessivo di CFU degli esami superati, il numero degli esami superati e il voto di laurea (ipotetico).
 
 ## Istruzioni per gli sviluppatori
 Il progetto è basato su *Maven*. Seguono alcune istruzioni utili per gli sviluppatori.
