@@ -318,7 +318,7 @@ public class MainFrame extends JFrame implements Constants {
         Exam[] es = (Exam[]) exams.toArray(new Exam[]{});
         for (int i = 0; i < es.length; i++) {
             if (es[i].getName().equals(name)) {
-                exams.remove(es[0]);
+                exams.remove(es[1]);
                 return true;
             }
         }
